@@ -1,1 +1,2 @@
-this repository contains my projects of Data Analyst for Enterprise Nanodegree Projects , by ending of this program , I will be uploaded 6 projects.
+- EDA project of the data analyst nanodegree for enterprise , the selected data is ProsperLoan data set .  
+- This project performed using R programming language.
